@@ -1,4 +1,4 @@
 language: java
-os: windows
+dist: bionic
 jdk:
   - oraclejdk11
